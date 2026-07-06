@@ -228,14 +228,9 @@ BRICS-Economic-Intelligence/
 
 # 📸 Dashboard Preview
 
-> Add dashboard screenshots here.
-
-Example:
-
 ```[
 https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Overview.png
-https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Trade.png
-https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/People.png
+
 ```
 
 ---
@@ -254,32 +249,6 @@ https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main
 - ETL Development
 - Data Visualization
 - Business Storytelling
-
----
-
-# 🔗 Project Links
-
-### 📊 Power BI Dashboard
-
-> https://app.powerbi.com/......
-
-### 💻 GitHub Repository
-
-> https://github.com/yourusername/BRICS-Economic-Intelligence
-
-### 💼 LinkedIn
-
-> https://linkedin.com/in/yourprofile
-
-### 📄 Portfolio
-
-> https://yourportfolio.com
-
-### 📂 Dataset
-
-World Bank Open Data
-
-https://data.worldbank.org/
 
 ---
 
