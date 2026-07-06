@@ -233,9 +233,9 @@ BRICS-Economic-Intelligence/
 Example:
 
 ```[
-images/dashboard-overview.png](https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Overview.png)
-[images/economic-analysis.png](https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Trade.png)
-[images/trade-analysis.png](https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/People.png)
+https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Overview.png
+https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Trade.png
+https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/People.png
 ```
 
 ---
@@ -289,11 +289,10 @@ https://data.worldbank.org/
 
 **Power BI Developer | Data Analyst | SQL Developer**
 
-📧 Email: your-email@example.com
+📧 Email: dippal351@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: www.linkedin.com/in/dipankar-analyst
 
-🐙 GitHub: https://github.com/yourusername
 
 ---
 
