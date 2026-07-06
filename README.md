@@ -20,6 +20,20 @@ The dashboard analyzes **15 macroeconomic indicators** over **25 years (2000–2
 
 ---
 
+# 📸 Dashboard Preview
+
+## Executive Overview
+
+![Dashboard Overview](https://raw.githubusercontent.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/23fc3a40c2c8121d92e9e0eb245a8a031113e262/Overview.png)
+
+## Trade Analysis
+
+![Dashboard Trade](https://raw.githubusercontent.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/df4b8428b602d6362375f6bdb8565943d9c5010d/Trade.png)
+
+## People Analysis
+
+![Dashboard People](https://raw.githubusercontent.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/540adef27bb4435c07019e45a37c68395c42bb46/People.png)
+
 # 🎯 Project Objectives
 
 - Analyze long-term economic trends across BRICS nations.
@@ -226,19 +240,6 @@ BRICS-Economic-Intelligence/
 
 
 
-# 📸 Dashboard Preview
-
-## Executive Overview
-
-![Dashboard Overview](https://raw.githubusercontent.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/23fc3a40c2c8121d92e9e0eb245a8a031113e262/Overview.png)
-
-## Trade Analysis
-
-![Dashboard Trade](https://raw.githubusercontent.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/df4b8428b602d6362375f6bdb8565943d9c5010d/Trade.png)
-
-## People Analysis
-
-![Dashboard People](https://raw.githubusercontent.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/540adef27bb4435c07019e45a37c68395c42bb46/People.png)
 # 🚀 Skills Demonstrated
 
 - Business Intelligence
