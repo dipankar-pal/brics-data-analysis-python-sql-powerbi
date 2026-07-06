@@ -232,10 +232,10 @@ BRICS-Economic-Intelligence/
 
 Example:
 
-```
-images/dashboard-overview.png
-images/economic-analysis.png
-images/trade-analysis.png
+```[
+images/dashboard-overview.png](https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Overview.png)
+[images/economic-analysis.png](https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Trade.png)
+[images/trade-analysis.png](https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/People.png)
 ```
 
 ---
