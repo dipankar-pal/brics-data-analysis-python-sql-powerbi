@@ -229,7 +229,7 @@ BRICS-Economic-Intelligence/
 # 📸 Dashboard Preview
 
 ```[
-![image alt](https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Overview.png)
+![image alt]([https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/main/Overview.png](https://github.com/dipankar-pal/brics-data-analysis-python-sql-powerbi/blob/dd58274998ea7b3d05f2a605985efce272063310/People.png))
 
 ```
 
